@@ -1,0 +1,4 @@
+{
+  "weights": {"C1": 0.30, "C2": 0.25, "C3": 0.20, "C4": 0.15, "C5": 0.10},
+  "types": {"C1": "cost", "C2": "benefit", "C3": "benefit", "C4": "benefit", "C5": "benefit"}
+}

@@ -1,0 +1,4 @@
+﻿No;Nama Lengkap Calon Santri;Penghasilan Asli;Penghasilan (Rp);Nilai Rata-Rata;Jumlah Saudara;Status Orang Tua;Berkas SKTM;C1 (Penghasilan);C2 (Prestasi);C3 (Tanggungan);C4 (Status Ortu);C5 (SKTM);Keterangan Konversi
+1;SANTRI CONTOH 001;Rp1.500.000/bulan;1500000;85.5;3;ORANG TUA LENGKAP;Ada;4;4;3;1;5;Data sintetis untuk contoh pengisian
+2;SANTRI CONTOH 002;Rp3.000.000/bulan;3000000;92;2;YATIM;Ada;3;5;2;4;5;Data sintetis untuk contoh pengisian
+3;SANTRI CONTOH 003;Rp6.000.000/bulan;6000000;78;1;PIATU;Tidak Ada;1;3;1;3;1;Data sintetis untuk contoh pengisian
