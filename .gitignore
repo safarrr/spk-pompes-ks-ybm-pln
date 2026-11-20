@@ -15,7 +15,7 @@ dist/
 
 # Notebook lokal menyimpan nama dan output perhitungan santri.
 # Gunakan notebooks/template_topsis.ipynb untuk versi GitHub.
-/main.ipynb
+# /main.ipynb
 /main.before_topsis.ipynb
 **/.ipynb_checkpoints/
 
